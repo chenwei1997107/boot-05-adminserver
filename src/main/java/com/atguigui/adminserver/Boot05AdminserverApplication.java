@@ -18,6 +18,7 @@ public class Boot05AdminserverApplication {
         System.out.println("hot-fix");
         System.out.println("hot-fix");
         System.out.println("push-fix");
+        System.out.println("pull-fix");
     }
 
 }
