@@ -12,6 +12,7 @@ public class Boot05AdminserverApplication {
         SpringApplication.run(Boot05AdminserverApplication.class, args);
         System.out.println("1111111111");
         System.out.println("hot-fix");
+        System.out.println("master");
     }
 
 }
