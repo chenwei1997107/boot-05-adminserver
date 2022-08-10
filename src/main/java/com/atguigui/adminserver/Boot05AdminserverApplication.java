@@ -13,6 +13,10 @@ public class Boot05AdminserverApplication {
         System.out.println("1111111111");
         System.out.println("hot-fix");
         System.out.println("master");
+        System.out.println("hot-fix");
+        System.out.println("hot-fix");
+        System.out.println("hot-fix");
+        System.out.println("hot-fix");
     }
 
 }
